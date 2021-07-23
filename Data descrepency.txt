@@ -1,0 +1,7 @@
+6685,8370 Earl Howard, Seasonal/career split missing
+
+7469,9341,Ed Kelly,https://www.retrosheet.org/boxesetc/1914/Jkelle1010011914.htm, Seasonal/career split missing
+
+8836,11009,Paul Maloy,https://www.retrosheet.org/boxesetc/1913/Jmalop1010011913.htm, Seasonal/career split missing
+
+9533,11894,Rufus Meadows,https://www.retrosheet.org/boxesetc/1926/Jmeadr1010011926.htm, Seasonal/career split missing
